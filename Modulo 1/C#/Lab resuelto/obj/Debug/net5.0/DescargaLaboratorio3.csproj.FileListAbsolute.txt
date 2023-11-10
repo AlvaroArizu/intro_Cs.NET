@@ -1,0 +1,16 @@
+C:\EducacionIT\Curso C#\Manual Nueva versión 2023\Módulo 1\Laboratorios adicionales\DescargaLaboratorio1\DescargaLaboratorio1\bin\Debug\net5.0\DescargaLaboratorio3.exe
+C:\EducacionIT\Curso C#\Manual Nueva versión 2023\Módulo 1\Laboratorios adicionales\DescargaLaboratorio1\DescargaLaboratorio1\bin\Debug\net5.0\DescargaLaboratorio3.deps.json
+C:\EducacionIT\Curso C#\Manual Nueva versión 2023\Módulo 1\Laboratorios adicionales\DescargaLaboratorio1\DescargaLaboratorio1\bin\Debug\net5.0\DescargaLaboratorio3.runtimeconfig.json
+C:\EducacionIT\Curso C#\Manual Nueva versión 2023\Módulo 1\Laboratorios adicionales\DescargaLaboratorio1\DescargaLaboratorio1\bin\Debug\net5.0\DescargaLaboratorio3.runtimeconfig.dev.json
+C:\EducacionIT\Curso C#\Manual Nueva versión 2023\Módulo 1\Laboratorios adicionales\DescargaLaboratorio1\DescargaLaboratorio1\bin\Debug\net5.0\DescargaLaboratorio3.dll
+C:\EducacionIT\Curso C#\Manual Nueva versión 2023\Módulo 1\Laboratorios adicionales\DescargaLaboratorio1\DescargaLaboratorio1\bin\Debug\net5.0\ref\DescargaLaboratorio3.dll
+C:\EducacionIT\Curso C#\Manual Nueva versión 2023\Módulo 1\Laboratorios adicionales\DescargaLaboratorio1\DescargaLaboratorio1\bin\Debug\net5.0\DescargaLaboratorio3.pdb
+C:\EducacionIT\Curso C#\Manual Nueva versión 2023\Módulo 1\Laboratorios adicionales\DescargaLaboratorio1\DescargaLaboratorio1\obj\Debug\net5.0\DescargaLaboratorio3.csprojAssemblyReference.cache
+C:\EducacionIT\Curso C#\Manual Nueva versión 2023\Módulo 1\Laboratorios adicionales\DescargaLaboratorio1\DescargaLaboratorio1\obj\Debug\net5.0\DescargaLaboratorio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\EducacionIT\Curso C#\Manual Nueva versión 2023\Módulo 1\Laboratorios adicionales\DescargaLaboratorio1\DescargaLaboratorio1\obj\Debug\net5.0\DescargaLaboratorio3.AssemblyInfoInputs.cache
+C:\EducacionIT\Curso C#\Manual Nueva versión 2023\Módulo 1\Laboratorios adicionales\DescargaLaboratorio1\DescargaLaboratorio1\obj\Debug\net5.0\DescargaLaboratorio3.AssemblyInfo.cs
+C:\EducacionIT\Curso C#\Manual Nueva versión 2023\Módulo 1\Laboratorios adicionales\DescargaLaboratorio1\DescargaLaboratorio1\obj\Debug\net5.0\DescargaLaboratorio3.csproj.CoreCompileInputs.cache
+C:\EducacionIT\Curso C#\Manual Nueva versión 2023\Módulo 1\Laboratorios adicionales\DescargaLaboratorio1\DescargaLaboratorio1\obj\Debug\net5.0\DescargaLaboratorio3.dll
+C:\EducacionIT\Curso C#\Manual Nueva versión 2023\Módulo 1\Laboratorios adicionales\DescargaLaboratorio1\DescargaLaboratorio1\obj\Debug\net5.0\ref\DescargaLaboratorio3.dll
+C:\EducacionIT\Curso C#\Manual Nueva versión 2023\Módulo 1\Laboratorios adicionales\DescargaLaboratorio1\DescargaLaboratorio1\obj\Debug\net5.0\DescargaLaboratorio3.pdb
+C:\EducacionIT\Curso C#\Manual Nueva versión 2023\Módulo 1\Laboratorios adicionales\DescargaLaboratorio1\DescargaLaboratorio1\obj\Debug\net5.0\DescargaLaboratorio3.genruntimeconfig.cache

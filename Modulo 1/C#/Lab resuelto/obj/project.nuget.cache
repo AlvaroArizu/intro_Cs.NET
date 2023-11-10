@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KkaqeLIUg6YTbm+YXyoAv8pnVweB0xMWa3qyrsJJ0CqYhLFQzvo/af1OnlQzUXABYRJm8POjbqe/9Cl/+6lbDA==",
+  "success": true,
+  "projectFilePath": "C:\\EducacionIT\\Curso C#\\Manual Nueva versión 2023\\Módulo 1\\Laboratorios adicionales\\DescargaLaboratoriosModulo1\\DescargaLaboratoriosModulo1\\DescargaLaboratoriosModulo1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miriam\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Miriam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.4\\microsoft.netcore.app.host.win-x64.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
