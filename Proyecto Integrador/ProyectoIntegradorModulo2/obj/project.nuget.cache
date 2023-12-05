@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "784rbxf5D+a73ZWV6mqYPd81WcH147VYdlOGRmRtioGqXkIczHKD5tO+WYHul629mQ9l1QRscaQY0U1XujXbxg==",
+  "success": true,
+  "projectFilePath": "C:\\EducacionIT\\Curso C#\\Manual Nueva versión 2023\\Módulo 2\\Laboratorios adicionales\\ProyectoIntegradorModulo2\\ProyectoIntegradorModulo2\\ProyectoIntegradorModulo2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miriam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
