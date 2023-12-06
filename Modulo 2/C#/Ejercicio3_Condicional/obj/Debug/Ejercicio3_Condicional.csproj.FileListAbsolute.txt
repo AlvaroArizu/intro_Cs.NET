@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercicio3_Condicional\bin\Debug\Ejercicio3_Condicional.exe.config
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercicio3_Condicional\bin\Debug\Ejercicio3_Condicional.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercicio3_Condicional\bin\Debug\Ejercicio3_Condicional.pdb
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercicio3_Condicional\obj\Debug\Ejercicio3_Condicional.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercicio3_Condicional\obj\Debug\Ejercicio3_Condicional.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercicio3_Condicional\obj\Debug\Ejercicio3_Condicional.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercicio3_Condicional\obj\Debug\Ejercicio3_Condicional.pdb

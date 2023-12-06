@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercio1_IF\bin\Debug\Ejercio1_IF.exe.config
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercio1_IF\bin\Debug\Ejercio1_IF.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercio1_IF\bin\Debug\Ejercio1_IF.pdb
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercio1_IF\obj\Debug\Ejercio1_IF.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercio1_IF\obj\Debug\Ejercio1_IF.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercio1_IF\obj\Debug\Ejercio1_IF.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercio1_IF\obj\Debug\Ejercio1_IF.pdb

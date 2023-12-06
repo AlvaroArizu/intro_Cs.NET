@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercicio4_Switch\bin\Debug\Ejercicio4_Switch.exe.config
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercicio4_Switch\bin\Debug\Ejercicio4_Switch.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercicio4_Switch\bin\Debug\Ejercicio4_Switch.pdb
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercicio4_Switch\obj\Debug\Ejercicio4_Switch.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercicio4_Switch\obj\Debug\Ejercicio4_Switch.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercicio4_Switch\obj\Debug\Ejercicio4_Switch.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 2\C#\Ejercicio4_Switch\obj\Debug\Ejercicio4_Switch.pdb
