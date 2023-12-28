@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej_Integrador", "Ej_Integrador.csproj", "{72F85B82-237A-496D-8F79-6066CE1A791A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72F85B82-237A-496D-8F79-6066CE1A791A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F85B82-237A-496D-8F79-6066CE1A791A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F85B82-237A-496D-8F79-6066CE1A791A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F85B82-237A-496D-8F79-6066CE1A791A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {731F1058-389D-4796-9973-7481FD41CF57}
+	EndGlobalSection
+EndGlobal
