@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\DoWhileChar\bin\Debug\DoWhileChar.exe.config
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\DoWhileChar\bin\Debug\DoWhileChar.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\DoWhileChar\bin\Debug\DoWhileChar.pdb
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\DoWhileChar\obj\Debug\DoWhileChar.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\DoWhileChar\obj\Debug\DoWhileChar.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\DoWhileChar\obj\Debug\DoWhileChar.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\DoWhileChar\obj\Debug\DoWhileChar.pdb

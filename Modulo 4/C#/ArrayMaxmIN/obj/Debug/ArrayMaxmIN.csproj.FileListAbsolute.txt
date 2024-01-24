@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\ArrayMaxmIN\bin\Debug\ArrayMaxmIN.exe.config
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\ArrayMaxmIN\bin\Debug\ArrayMaxmIN.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\ArrayMaxmIN\bin\Debug\ArrayMaxmIN.pdb
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\ArrayMaxmIN\obj\Debug\ArrayMaxmIN.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\ArrayMaxmIN\obj\Debug\ArrayMaxmIN.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\ArrayMaxmIN\obj\Debug\ArrayMaxmIN.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\ArrayMaxmIN\obj\Debug\ArrayMaxmIN.pdb

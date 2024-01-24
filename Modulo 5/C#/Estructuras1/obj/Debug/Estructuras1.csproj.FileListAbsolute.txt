@@ -1,0 +1,2 @@
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 5\C#\Estructuras1\obj\Debug\Estructuras1.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 5\C#\Estructuras1\obj\Debug\Estructuras1.csproj.CoreCompileInputs.cache

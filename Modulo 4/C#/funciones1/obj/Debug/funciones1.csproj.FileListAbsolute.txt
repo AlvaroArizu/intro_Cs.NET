@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\funciones1\bin\Debug\funciones1.exe.config
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\funciones1\bin\Debug\funciones1.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\funciones1\bin\Debug\funciones1.pdb
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\funciones1\obj\Debug\funciones1.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\funciones1\obj\Debug\funciones1.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\funciones1\obj\Debug\funciones1.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\funciones1\obj\Debug\funciones1.pdb

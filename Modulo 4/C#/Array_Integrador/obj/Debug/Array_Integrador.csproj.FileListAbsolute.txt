@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\Array_Integrador\bin\Debug\Array_Integrador.exe.config
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\Array_Integrador\bin\Debug\Array_Integrador.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\Array_Integrador\bin\Debug\Array_Integrador.pdb
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\Array_Integrador\obj\Debug\Array_Integrador.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\Array_Integrador\obj\Debug\Array_Integrador.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\Array_Integrador\obj\Debug\Array_Integrador.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 4\C#\Array_Integrador\obj\Debug\Array_Integrador.pdb

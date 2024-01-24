@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\DoWihileBool\bin\Debug\DoWihileBool.exe.config
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\DoWihileBool\bin\Debug\DoWihileBool.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\DoWihileBool\bin\Debug\DoWihileBool.pdb
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\DoWihileBool\obj\Debug\DoWihileBool.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\DoWihileBool\obj\Debug\DoWihileBool.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\DoWihileBool\obj\Debug\DoWihileBool.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\DoWihileBool\obj\Debug\DoWihileBool.pdb

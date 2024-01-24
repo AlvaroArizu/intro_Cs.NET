@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 5\C#\Estructura_Anidada\bin\Debug\Estructura_Anidada.exe.config
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 5\C#\Estructura_Anidada\bin\Debug\Estructura_Anidada.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 5\C#\Estructura_Anidada\bin\Debug\Estructura_Anidada.pdb
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 5\C#\Estructura_Anidada\obj\Debug\Estructura_Anidada.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 5\C#\Estructura_Anidada\obj\Debug\Estructura_Anidada.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 5\C#\Estructura_Anidada\obj\Debug\Estructura_Anidada.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 5\C#\Estructura_Anidada\obj\Debug\Estructura_Anidada.pdb

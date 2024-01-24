@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 5\C#\Enumeraciones\bin\Debug\Enumeraciones.exe.config
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 5\C#\Enumeraciones\bin\Debug\Enumeraciones.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 5\C#\Enumeraciones\bin\Debug\Enumeraciones.pdb
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 5\C#\Enumeraciones\obj\Debug\Enumeraciones.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 5\C#\Enumeraciones\obj\Debug\Enumeraciones.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 5\C#\Enumeraciones\obj\Debug\Enumeraciones.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 5\C#\Enumeraciones\obj\Debug\Enumeraciones.pdb

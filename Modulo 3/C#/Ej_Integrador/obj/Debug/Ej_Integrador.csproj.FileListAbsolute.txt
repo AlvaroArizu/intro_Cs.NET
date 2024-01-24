@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\Ej_Integrador\obj\Debug\Ej_Integrador.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\Ej_Integrador\obj\Debug\Ej_Integrador.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\Ej_Integrador\bin\Debug\Ej_Integrador.exe.config
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\Ej_Integrador\bin\Debug\Ej_Integrador.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\Ej_Integrador\bin\Debug\Ej_Integrador.pdb
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\Ej_Integrador\obj\Debug\Ej_Integrador.exe
+C:\Users\alvar\OneDrive\Documentos\Intro C# .NET\intro_Cs.NET\Modulo 3\C#\Ej_Integrador\obj\Debug\Ej_Integrador.pdb
